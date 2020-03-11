@@ -1,0 +1,8 @@
+1. import dulu database yang ada didalam folder database ke mysql
+    caranya :
+        - nyalain XAMPP
+        - masuk ke phpmyadmin
+        - klik export
+        
+2. Bikin tampilan GUI di package com.view
+3. kalo buat backend di com.model sama com.controller
